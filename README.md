@@ -12,7 +12,7 @@
 
 <p align="center">
   <img alt="Biscoito" src=".github/0.png" width="30%">
-  <img alt="daSorte" src=".github/1.png"" width="30%">
+  <img alt="daSorte" src=".github/23.png"" width="30%">
   
 </p>
 
